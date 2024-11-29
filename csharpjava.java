@@ -142,7 +142,7 @@ public class InheritanceExample {
         dog.sound();  // Calling overridden method from Dog class
     }
 }
-
+--------------------------------
 // 9. Exception Handling
 
 // C#: try { } catch { }
