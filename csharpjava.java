@@ -85,7 +85,7 @@ class Person {
         person.greet();  // Call the method
     }
 }
-
+--------------------------------
 // 6. Arrays
 
 // Both C# and Java arrays are declared and used in a similar way.
@@ -100,7 +100,7 @@ public class ArraysExample {
         }
     }
 }
-
+--------------------------------
 // 7. Functions/Methods
 
 // C#: public int AddNumbers(int a, int b) { return a + b; }
