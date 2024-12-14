@@ -44,7 +44,7 @@ public class IfElseExample {
         }
     }
 }
-
+--------------------------------
 // 4. For Loop
 
 // Both C# and Java use similar syntax for loops:
