@@ -12,7 +12,7 @@ public class Main {
         System.out.println("Hello, World!");  // Prints to the console
     }
 }
-
+--------------------------------
 // 2. Variable Declaration
 
 // C#: int number = 5;
