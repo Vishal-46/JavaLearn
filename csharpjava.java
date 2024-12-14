@@ -59,7 +59,7 @@ public class ForLoopExample {
         }
     }
 }
-
+--------------------------------
 // 5. Class and Object
 
 // C#: class Person { public string name; }
