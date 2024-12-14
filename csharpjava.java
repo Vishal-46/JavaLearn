@@ -118,7 +118,7 @@ public class MethodsExample {
         return a + b;
     }
 }
-
+--------------------------------
 // 8. Inheritance
 
 // Inheritance in Java is similar to C#. In both, you use the 'extends' keyword in Java and 'class' in C#.
