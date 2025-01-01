@@ -27,7 +27,7 @@ public class VariablesExample {
         System.out.println("Number: " + number);
     }
 }
---------------------------------
+--------------------------------------------------------------------
 // 3. If-Else Statement
 
 // In both Java and C#, the syntax of the if-else statement is very similar:
